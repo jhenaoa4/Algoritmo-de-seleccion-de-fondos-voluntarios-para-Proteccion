@@ -5,4 +5,4 @@ The portfolio selection problem consists of choosing a strategy to manage or all
 In this work we first find a motivation that leads to the elaboration of the research, followed by the general and specific objectives of the project. Finally, there is the methodology carried out during the research period and a summary of the results and conclusions obtained.
 
 ## Project details, methodology and results 🚀
-The data used in this project is private, owned by Protección, but the details of the project and the results are in the paper [Proyecto_de_practica_Juliana_Henao.pdf](https://github.com/jhenaoa4/Algoritmo-de-seleccion-de-fondos-voluntarios-para-Proteccion/blob/main/Proyecto_de_practica_Juliana_Henao.pdf)
+The data and codes used in this project is private, owned by Protección, but the details of the project and the results are in the paper [Proyecto_de_practica_Juliana_Henao.pdf](https://github.com/jhenaoa4/Algoritmo-de-seleccion-de-fondos-voluntarios-para-Proteccion/blob/main/Proyecto_de_practica_Juliana_Henao.pdf)
